@@ -1,0 +1,24 @@
+{
+    "design": [
+        {
+            "name": "Figma",
+            "logo": "https://imgs.search.brave.com/Cw7Uw4d-7CL2cDKMniS2oWCf59xdnLFUi1BXIibyguY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzMzL0ZpZ21hLWxv/Z28uc3Zn",
+            "link": "https://www.figma.com/"
+        },
+        {
+            "name": "Canva",
+            "logo": "https://imgs.search.brave.com/gAmpRkVnmc780FDrCM1Y_kZV6HlXDCp6hj3Is2Rmnik/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY1NjczMzYz/N2xvZ28tY2FudmEt/cG5nLnBuZw",
+            "link": "https://www.canva.com/projects"
+        },
+        {
+            "name": "Remove BG",
+            "logo": "https://imgs.search.brave.com/_chWgM1FSo8PMc_v0QKq7TDCvBmoP8_Q841NYlwLLRs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4ZWxiaW4uaW8v/djIvZHVtbXktY2xv/dWRuYW1lL0VFTTJP/My93cmtyL29yaWdp/bmFsLzYxMWE0MmNm/N2NmYTE2MjY5OTA1/Mjg2Yi82Mjk3MTIw/NjA1YjNhMjM0MjUz/OWVlMzdfaWNvbnMt/MDElMjAoMSkud2Vi/cA",
+            "link": "https://www.remove.bg/"
+        },
+        {
+            "name": "Color Palettes",
+            "logo": "https://imgs.search.brave.com/vazJs4bu3Q1Uq6efqI5JNTu6y-BbzxKfabyP7Iazzn8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9uay1j/b29sb3JzLWNsb25l/LnZlcmNlbC5hcHAv/X25leHQvaW1hZ2U_/dXJsPS9jb29sb3Jz/LWxvZ28ucG5nJnc9/ODI4JnE9NzU",
+            "link": "https://coolors.co/"
+        }
+    ]
+}
