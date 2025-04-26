@@ -3,17 +3,17 @@
   "name": "RD Tools",
   "icons": [
     {
-      "src": "rdnux.png",
+      "src": "rdnuxlogo.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "rdnux.png",
+      "src": "rdnuxlogo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "rdnux.png",
+      "src": "rdnuxlogo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
