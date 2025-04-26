@@ -1,4 +1,26 @@
 {
+    "linux": [
+        {
+            "name": "AUR",
+            "logo": "https://imgs.search.brave.com/PGR1Dp_FQ67NrfPlRE1NetAxjVYfyxBeVtVnsEafSIc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzEzL0FyY2hfTGlu/dXhfJTIyQ3J5c3Rh/bCUyMl9pY29uLnN2/Zw",
+            "link": "https://aur.archlinux.org/"
+        },
+        {
+            "name": "i3",
+            "logo": "https://imgs.search.brave.com/jSdeUmsiaQGmnmfjx9L3lC8vsc8aeG1CV9iNBmO5XrM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI3L0kzX3dpbmRv/d19tYW5hZ2VyX2xv/Z28uc3Zn",
+            "link": "https://i3wm.org/"
+        },
+        {
+            "name": "Unixporn",
+            "logo": "https://imgs.search.brave.com/3gDT0uyBMtxeGwNrptOaiAFBku5j-Khc_KmTnABFX08/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJz/eDJpL3N0eWxlcy9j/b21tdW5pdHlJY29u/XzdmaXhlb254Ynhk/NDEucG5n",
+            "link": "https://www.reddit.com/r/unixporn/?rdt=45018"
+        },
+        {
+            "name": "Icomoon",
+            "logo": "https://imgs.search.brave.com/n0RB6BSW-VLU2X4c-Jer-rvg02h3tLLIB1ZsxUWZQzU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9tb29uLWlj/b24tMjU2eDI1Ni13/NnZhY3hiOC5wbmc",
+            "link": "https://icomoon.io/app/#/select/font"
+        }
+    ],
     "design": [
         {
             "name": "Figma",

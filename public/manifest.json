@@ -1,19 +1,19 @@
 {
-  "short_name": "Tools",
-  "name": "My Tools",
+  "short_name": "RD Tools",
+  "name": "RD Tools",
   "icons": [
     {
-      "src": "design_tools.png",
+      "src": "rdnux.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "design_tools.png",
+      "src": "rdnux.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "design_tools.png",
+      "src": "rdnux.png",
       "type": "image/png",
       "sizes": "512x512"
     }
