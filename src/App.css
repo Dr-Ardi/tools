@@ -1,5 +1,5 @@
 section {
-    height: 100dvh;
+    height: 92dvh;
     width: 50%;
     margin: 0 25%;
     display: flex;
@@ -38,7 +38,7 @@ nav {
     justify-content: space-evenly;
     align-items: center;
     font-size: 30px;
-    padding: 20px 0px;
+    height: 8dvh;
     backdrop-filter: brightness(70%) blur(30px);
 }
 
