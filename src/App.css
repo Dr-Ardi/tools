@@ -39,14 +39,33 @@ nav {
     align-items: center;
     font-size: 30px;
     height: 8dvh;
-    backdrop-filter: brightness(70%) blur(30px);
+    backdrop-filter: brightness(50%) blur(30px);
 }
 
 nav > a {
+    font-family: 'Times New Roman', Times, serif;
+    width: 120px;
+    text-align: center;
+    font-weight: 500;
     color: aliceblue;
     text-decoration: none;
 
     &:hover {
         color: #640000;
     }
+}
+
+.linux:hover {
+    border-color:#640000;
+    color: #640000
+}
+
+.uni:hover {
+    border-color:#42077a;
+    color: #42077a;
+}
+
+.design:hover {
+    border-color:#d61153;
+    color: #d61153
 }

@@ -7,14 +7,14 @@ function App() {
   return (
     <Router>
       <nav>
-        <Link to="/">Linux</Link>
-        <Link to="/Uni">Uni</Link>
-        <Link to="/design">Design</Link>
+        <Link className='linux' to="/">Linux</Link>
+        <Link className='uni' to="/uni">Uni</Link>
+        <Link className='design' to="/design">Design</Link>
       </nav>
       <Routes>
-        <Route path="/" element={<Page content={content.linux} />} />
-        <Route path="/design" element={<Page content={content.design} />} />
-        <Route path="/uni" element={<Page content={content.uni} />} />
+        <Route path="/" element={<Page content={content.linux} color="linux" />} />
+        <Route path="/design" element={<Page content={content.design} color="design" />} />
+        <Route path="/uni" element={<Page content={content.uni} color="uni" />} />
       </Routes>
     </Router>
   );
