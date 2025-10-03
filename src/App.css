@@ -69,3 +69,8 @@ nav > a {
     border-color:#d61153;
     color: #d61153
 }
+
+.lists:hover {
+    border-color:#d61153;
+    color: #006d52
+}

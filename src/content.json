@@ -43,7 +43,6 @@
             "link": "https://coolors.co/"
         }
     ],
-
     "uni": [
         {
             "name": "Apps",
@@ -69,6 +68,28 @@
             "name": "Trelos Foitiths",
             "logo": "https://imgs.search.brave.com/76hGOWLs0-uyqz1xxKxsyt8D2ivCNedNRvChs0qZ6Yg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5ncGxheS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzE1L0Js/dWUtR3JhZHVhdGlv/bi1DYXAtVHJhbnNw/YXJlbnQtSW1hZ2Vz/LnBuZw",
             "link": "https://trelosfoititis.gr/search"
+        }
+    ],
+    "lists": [
+        {
+            "name": "Mal",
+            "logo": "",
+            "link": "https://myanimelist.net/"
+        },
+        {
+            "name": "Letterboxd",
+            "logo": "https://sso.ihu.gr/images/favicon.ico",
+            "link": "https://letterboxd.com/"
+        },
+        {
+            "name": "Storygraph",
+            "logo": "https://imgs.search.brave.com/xcHssbOD7VhO1bG0s5M7VEnmB2wdTbdHHbWbar5kvIM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Y2FybGV0b24uZWR1/L3VwbG9hZHMvc2l0/ZXMvMTE0LzIwMjMv/MDgvbW9vZGxlLTQy/LTEucG5nP3Jlc2l6/ZT01MTIsMzg0JmNy/b3A9MCwxMywxMDAs/NzQ",
+            "link": "https://thestorygraph.com/"
+        },
+        {
+            "name": "Backloggd",
+            "logo": "https://imgs.search.brave.com/Bratk5PJ2xBbddP_CRKUiMmxIp8epCzA_kCwPCC2lGI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3ZmIyNmNlZjEw/MTRjMGI1ZTQ4ZDQu/cG5n",
+            "link": "https://backloggd.com/"
         }
     ]
 }

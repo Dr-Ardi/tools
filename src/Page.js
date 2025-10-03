@@ -3,7 +3,7 @@ export default function Page({content, color}) {
       <section>
           {content.map((item, index) => (
             <a href={item.link} target="_blank" className={`link ${color}`} key={item.name + index}>
-              <img className="logo" src={item.logo}/>
+              {/* <img className="logo" src={item.logo}/> */}
               <p >{item.name}</p>
             </a>
           ))}
