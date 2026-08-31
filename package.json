@@ -1,7 +1,7 @@
 {
   "name": "convinient-apps",
   "version": "0.1.0",
-  "homepage": "https://dr-ardi.github.io/tools",
+  "homepage": "https://drardi.github.io/tools",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
