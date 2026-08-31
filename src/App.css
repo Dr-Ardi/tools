@@ -43,7 +43,7 @@ section {
     top: -11px;
     margin: 0;
     left: 16px;
-    background-color: rgb(6, 5, 17);
+    background-color: rgb(15, 13, 19);
     z-index: 20;
     padding: 0 5px;
     font-size: 1.2em;
@@ -52,9 +52,10 @@ section {
 
 .border {
     height: 100%;
-    width: 100%;
+    width: 90%;
     border: 1px solid aliceblue;
     border-radius: 15px;
+    padding: 5% 0;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -78,7 +79,8 @@ section:hover .title{
     align-items: center;
     font-size: 1.6em;
     text-decoration: none;
-    width: 60%;
+    width: 100%;
+    padding: 15px 0;
     color: aliceblue;
     border-radius: 20px;
     justify-content: center;
